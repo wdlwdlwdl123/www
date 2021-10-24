@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a043a04-357e-4e2a-b9b8-27fce013b4c7" name="Default Changelist" comment="dev第5次提交" />
+    <list default="true" id="5a043a04-357e-4e2a-b9b8-27fce013b4c7" name="Default Changelist" comment="dev第6次提交" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,6 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1635050383932</updated>
       <workItem from="1635050385092" duration="3085000" />
+      <workItem from="1635075817414" duration="159000" />
     </task>
     <task id="LOCAL-00001" summary="dev第一次提交">
       <created>1635050480361</created>
@@ -110,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635052585850</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="dev第6次提交">
+      <created>1635075843463</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1635075843463</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,6 +134,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="dev第一次提交" />
@@ -133,7 +142,8 @@
     <MESSAGE value="dev第三次提交" />
     <MESSAGE value="dev第4次提交" />
     <MESSAGE value="dev第5次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="dev第5次提交" />
+    <MESSAGE value="dev第6次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="dev第6次提交" />
   </component>
   <component name="WindowStateProjectService">
     <state x="331" y="129" key="MergeDialog" timestamp="1635052271508">
@@ -144,13 +154,13 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1017" y="507" width="692" height="400" key="MultipleFileMergeDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1635052271515" />
-    <state x="583" y="171" key="SettingsEditor" timestamp="1635052437876">
+    <state x="583" y="171" key="SettingsEditor" timestamp="1635075975445">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="583" y="171" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1635052437876" />
-    <state x="672" y="303" key="Vcs.Push.Dialog.v2" timestamp="1635052687574">
+    <state x="583" y="171" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1635075975445" />
+    <state x="672" y="303" key="Vcs.Push.Dialog.v2" timestamp="1635075850902">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="672" y="303" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1635052687574" />
+    <state x="672" y="303" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1635075850902" />
   </component>
 </project>
