@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5a043a04-357e-4e2a-b9b8-27fce013b4c7" name="Default Changelist" comment="dev第5次提交" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dev1" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1zwDiWe5breXKtDP1UdJc9s1wms" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a043a04-357e-4e2a-b9b8-27fce013b4c7" name="Default Changelist" comment="" />
+      <created>1635050383932</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635050383932</updated>
+      <workItem from="1635050385092" duration="3085000" />
+    </task>
+    <task id="LOCAL-00001" summary="dev第一次提交">
+      <created>1635050480361</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1635050480361</updated>
+    </task>
+    <task id="LOCAL-00002" summary="dev第二次提交">
+      <created>1635051978753</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1635051978753</updated>
+    </task>
+    <task id="LOCAL-00003" summary="dev第三次提交">
+      <created>1635052243444</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1635052243444</updated>
+    </task>
+    <task id="LOCAL-00004" summary="dev第4次提交">
+      <created>1635052491695</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1635052491695</updated>
+    </task>
+    <task id="LOCAL-00005" summary="dev第5次提交">
+      <created>1635052585850</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1635052585850</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="dev第一次提交" />
+    <MESSAGE value="dev第二次提交" />
+    <MESSAGE value="dev第三次提交" />
+    <MESSAGE value="dev第4次提交" />
+    <MESSAGE value="dev第5次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="dev第5次提交" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="331" y="129" key="MergeDialog" timestamp="1635052271508">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="331" y="129" key="MergeDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1635052271508" />
+    <state x="1017" y="507" width="692" height="400" key="MultipleFileMergeDialog" timestamp="1635052271515">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1017" y="507" width="692" height="400" key="MultipleFileMergeDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1635052271515" />
+    <state x="583" y="171" key="SettingsEditor" timestamp="1635052437876">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="583" y="171" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1635052437876" />
+    <state x="672" y="303" key="Vcs.Push.Dialog.v2" timestamp="1635052687574">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="672" y="303" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1635052687574" />
+  </component>
+</project>
